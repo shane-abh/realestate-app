@@ -25,7 +25,8 @@ This project is a real estate website built using data from Bayut API. It is dev
 
 
 
-
+# Credits
+Special thanks to adrianhajdin and https://github.com/adrianhajdin/projects_realestate for this tutorial
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
