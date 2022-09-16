@@ -1,3 +1,32 @@
+# Great Homes
+This project is a real estate website built using data from Bayut API. It is developed using NextJS and the UI is designed using ChakraUI. 
+
+## Features
+  1. Browse through Apartments for rent and for sale
+  2. View details about the property such as location, number of rooms and other such details.
+  3. View facilities such as swimming pool. parking, air-condition type, gym, etc.
+  4. Filter results using the search filter to meet the user's housing requirements.
+
+
+## Screenshots
+ ### 1. Home Page
+ ![image](https://user-images.githubusercontent.com/65544944/190638349-db77b2b8-d698-4331-8d22-3cf382277477.png)
+ ![image](https://user-images.githubusercontent.com/65544944/190638410-7d218128-1a38-4b63-9f06-e6b27d1059fd.png)
+ 
+ ### 2. Renting Apartments page
+ ![image](https://user-images.githubusercontent.com/65544944/190638561-44679333-04cb-41ee-bb1b-318945058e5f.png)
+ 
+ ### 3. Apartments for sale
+ ![image](https://user-images.githubusercontent.com/65544944/190638714-a672c683-4189-46c4-ae5f-a05e13c823f3.png)
+
+ ### 4. Property details page
+ ![image](https://user-images.githubusercontent.com/65544944/190638949-2ec6c7c2-8239-4187-9fe2-c9226997c727.png)
+ ![image](https://user-images.githubusercontent.com/65544944/190639045-a2022afe-4b50-40cd-bdd3-6554399c2fca.png) 
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
